@@ -1,6 +1,7 @@
 
 ### Guilherme Ramos 
 
+https://www.linkedin.com/in/guilherme-ramos-dev
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=gramos-neves&show_icons=true&theme=radical)
 
