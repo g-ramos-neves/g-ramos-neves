@@ -9,7 +9,7 @@
 
 ## Sobre
 
-    <div>
+    <div style="display: inline_block" >
         <p>
            Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Possuo experiência em desenvolvimento web e mobile, com habilidades em linguagens como JavaScript, Python e Java. Acredito que o aprendizado contínuo é a chave para o sucesso em minha carreira e estou sempre em busca de novas oportunidades para me desenvolver e expandir meus conhecimentos. Além disso, gosto de trabalhar em equipe e colaborar com colegas para alcançar metas comuns. Estou sempre pronto para enfrentar novos desafios e contribuir com minha expertise para projetos empresariais.
         </p>
