@@ -34,6 +34,11 @@
           <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" ></img>
           <img align="center" alt="servesql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></img></br>
 <div>
+    <div>
+        <p>
+           Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Possuo experiência em desenvolvimento web e mobile, com habilidades em linguagens como JavaScript, Python e Java. Acredito que o aprendizado contínuo é a chave para o sucesso em minha carreira e estou sempre em busca de novas oportunidades para me desenvolver e expandir meus conhecimentos. Além disso, gosto de trabalhar em equipe e colaborar com colegas para alcançar metas comuns. Estou sempre pronto para enfrentar novos desafios e contribuir com minha expertise para projetos empresariais.
+        </p>
+    </div>    
 <div style="display: inline_block">
          <h3> OS </h3> 
          <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" ></img>
