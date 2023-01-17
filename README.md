@@ -3,6 +3,19 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramos-dev/)
  
+ 
+ 
+ <details open>
+  <summary>⚙ <b>GitHub Analytics</b>: </summary>
+  <br>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gramos-neves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gramos-neves&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </p>
+</details>
+
+ 
+ 
 <!-- ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gramos-neves&show_icons=true&theme=radical) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gramos-neves&langs_count=5)](https://github.com/gramos-neves/github-readme-stats) -->
